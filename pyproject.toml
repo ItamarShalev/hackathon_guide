@@ -1,0 +1,19 @@
+[project]
+name = "flask_sample"
+version = "0.1.0"
+description = "Sample Flask application"
+readme = "README.md"
+requires-python = ">=3.13"
+
+dependencies = [
+    "flask==3.1.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3.5",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
