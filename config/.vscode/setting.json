@@ -18,5 +18,7 @@
     "workbench.sideBar.location": "right",
     "github.copilot.nextEditSuggestions.enabled": true,
     "gitlens.rebaseEditor.ordering": "asc",
-    "terminal.integrated.defaultProfile.windows": "Git Bash"
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "python.defaultInterpreterPath": "${workspaceFolder}\\.venv\\Scripts\\python.exe"
+
 }

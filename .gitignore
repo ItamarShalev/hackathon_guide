@@ -9,6 +9,8 @@
 log.txt
 dev.py
 .env
+uploads
+uploaded_files
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
