@@ -11,6 +11,8 @@ dev.py
 .env
 uploads
 uploaded_files
+cache
+output.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

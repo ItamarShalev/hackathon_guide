@@ -10,11 +10,18 @@ This is a simple Flask application to help you get started with web development 
 
 ## Getting Started
 
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/your-username/flask_repo_example.git
-    cd flask_repo_example
-    ```
+1. **Clone the repository (choose one method):**
+
+    - **HTTPS:**
+        ```bash
+        git clone https://github.com/ItamarShalev/flask_repo_example.git
+        cd flask_repo_example
+        ```
+    - **SSH:**
+        ```bash
+        git clone git@github.com:ItamarShalev/flask_repo_example.git
+        cd flask_repo_example
+        ```
 
 2. **Install dependencies:**
     ```bash
@@ -40,6 +47,21 @@ This is a simple Flask application to help you get started with web development 
     ```
     http://127.0.0.1:8000
     ```
+
+## How to:
+
+- **Add a new python package:**
+  - Run the following command:
+    ```bash
+    uv add <package_name>
+    ```
+
+- **Run jupyter notebook:**
+  - Run the following command:
+    ```bash
+    uv run jupyter nbconvert --to notebook --execute jupyter_file.ipynb --output output.ipynb
+    ```
+
 
 ## Learn More
 
