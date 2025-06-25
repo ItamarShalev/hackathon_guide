@@ -1,4 +1,4 @@
-# Welcome to the Sample Flask App
+# Welcome to the Hackathon Guide
 
 This is a simple Flask application to help you get started with web development in Python.
 
@@ -14,13 +14,13 @@ This is a simple Flask application to help you get started with web development 
 
     - **HTTPS:**
         ```bash
-        git clone https://github.com/ItamarShalev/flask_repo_example.git
-        cd flask_repo_example
+        git clone https://github.com/ItamarShalev/hackathon_guide.git
+        cd hackathon_guide
         ```
     - **SSH:**
         ```bash
-        git clone git@github.com:ItamarShalev/flask_repo_example.git
-        cd flask_repo_example
+        git clone git@github.com:ItamarShalev/hackathon_guide.git
+        cd hackathon_guide
         ```
 
 2. **Install dependencies:**
